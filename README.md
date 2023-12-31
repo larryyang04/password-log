@@ -11,3 +11,9 @@ This is a simple Python program that I created to quickly and easily store and s
 
 <img src="https://media.giphy.com/media/gdz7X4qGMFVgPOcvzH/giphy.gif" alt="Code Functionality" style="width:1000px; height:563px;">
 
+## Takeaways
+
+This was my first solo project in my programming journey! Some cool things I implemented in this project include:
+- File I/O
+- User input
+- Lambda functions

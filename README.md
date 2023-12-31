@@ -17,3 +17,11 @@ This was my first solo project in my programming journey! Some cool things I imp
 - File I/O
 - User input
 - Lambda functions
+
+<p align="center">
+  <i> Thank you for visiting my first-ever repository! </i>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xUPGcg1IJEKGCI6r5e/giphy.gif" alt="Thank You!">
+</p>

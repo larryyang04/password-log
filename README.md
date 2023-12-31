@@ -9,5 +9,5 @@ This is a simple Python program that I created to quickly and easily store and s
 
 ## Visual Sample
 
-<img src="https://media.giphy.com/media/gdz7X4qGMFVgPOcvzH/giphy.gif" alt="Code Functionality" style="width:300px; height:200px;">
+<img src="https://media.giphy.com/media/gdz7X4qGMFVgPOcvzH/giphy.gif" alt="Code Functionality" style="width:1000px; height:600px;">
 
